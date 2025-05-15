@@ -79,8 +79,8 @@
 
 
 - 📬 [Email](mailto:aartiverma1404@gmail.com)
-- 🐦 [Twitter](https://twitter.com/aartiverma4)
-- 💼 [LinkedIn](https://linkedin.com/in/aartiverma4)
+- 🐦 [Twitter](https://x.com/aartiverma91571?s=11)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aarti-verma-627983267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
