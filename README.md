@@ -49,6 +49,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AartiVerma4&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 
+
+
 ---
 
 ## 🖼️ Contribution Graph (Animated)
@@ -57,36 +59,8 @@
 
 
 ## 🐍 Contribution Snake
-.github/workflows/snake.yml
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs daily
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AartiVerma4
-          outputs: |
-            ./dist/github-contribution-grid-snake.svg
-
-      - name: Push to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-
----
+      
 
 ![Snake animation](https://github.com/AartiVerma4/AartiVerma4/blob/output/github-contribution-grid-snake.svg)
 
