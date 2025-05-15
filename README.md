@@ -52,14 +52,44 @@
 ---
 
 ## 🖼️ Contribution Graph (Animated)
+![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=AartiVerma4)
+![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=AartiVerma4&theme=github-dark&block=15&block-radius=5&animation=true)
 
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=AartiVerma4&theme=rogue&block=20&block-radius=4&animation=true&border=1)
+
+## 🐍 Contribution Snake
+.github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AartiVerma4
+          outputs: |
+            ./dist/github-contribution-grid-snake.svg
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
 
 ---
 
-## 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/AartiVerma4/AartiVerma4/blob/output/github-contribution-grid-snake.svg)
+
 
 > 📝 To make this work, set up GitHub Actions using [Platane/snk](https://github.com/Platane/snk) and push the snake SVG to an `output` branch.
 
