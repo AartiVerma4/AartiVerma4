@@ -1,29 +1,18 @@
-## Hi there 👋
-
-
-# 👋 Hi there! I'm AARTI VERMA
-
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 
-💻 Developer • 🎨 Creator • 🌍 Explorer
+# 👋 Hi there! I'm AARTI VERMA
 
----
+## 👨‍💻 About Me
 
-## 🔭 Currently Working On
-
-- Building cool front-end experiences with **HTML+CSS+JAVASCRIPT**
-- Diving into **Open Source Projects**
-
----
-
-## 🌱 Learning & Growing
-
-- 🎯 Advanced JavaScript, Web Performance
-- 🎨 SVG + CSS Animations
-- 🧠 UI/UX Design Systems
-
----
+- 🎓 I'm a **3rd-year Computer Science student** at **IIPS, DAVV**.
+- 💻 Passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript** and modern frameworks.
+- 🌐 Interested in **Web Development**, **UI/UX Design**, and creating responsive, user-friendly websites.
+- 🛠️ Actively contributing to **Open Source** projects and learning from the community.
+- ⚙️ Comfortable with **VS Code**, **GitHub**, **Canva**, and tools that boost productivity.
+- 📚 Currently exploring **React**, **SQL**, and building dynamic web apps.
+- 🤝 Always open to **collaboration** on creative and impactful tech projects.
+- 📈 Continuously learning and aiming to grow as a **developer and designer**.
 
 ## 👯 Let’s Collaborate
 
@@ -33,41 +22,17 @@
 
 ---
 
-## 💬 Ask Me About
-
-- Javascript / HTML / CSS
-- GitHub Readme customization
-- Making your repo ✨aesthetic✨
+## Tech Stack
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AartiVerma4&show_icons=true&theme=dracula&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=dracula)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AartiVerma4&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=dracula)
 
-
-
----
-
-## 🖼️ Contribution Graph (Animated)
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=AartiVerma4)
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api?username=AartiVerma4&theme=github-dark&block=15&block-radius=5&animation=true)
-
-
-## 🐍 Contribution Snake
-
-      
-
-![Snake animation](https://github.com/AartiVerma4/AartiVerma4/blob/output/github-contribution-grid-snake.svg)
-
-
-> 📝 To make this work, set up GitHub Actions using [Platane/snk](https://github.com/Platane/snk) and push the snake SVG to an `output` branch.
-
----
 
 ## 🚀 Featured Projects
 
