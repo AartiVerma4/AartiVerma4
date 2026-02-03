@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **3rd-year Computer Science student** at **IIPS, DAVV**.
+- 🎓 I'm a **4th-year Computer Science student** at **IIPS, DAVV**.
 - 💻 Passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript** and modern frameworks.
 - 🌐 Interested in **Web Development**, **UI/UX Design**, and creating responsive, user-friendly websites.
 - 🛠️ Actively contributing to **Open Source** projects and learning from the community.
