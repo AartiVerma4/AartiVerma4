@@ -80,6 +80,23 @@ I regularly practice coding, work on web-development projects, and use GitHub to
 
 ---
 
+
+
+## 📊 GitHub Stats
+
+![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AartiVerma4&show_icons=true&theme=dracula&hide=contribs,prs)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AartiVerma4&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=dracula)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+![Aarti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AartiVerma4&theme=dracula)
+
+---
 ## ⚡ Fun Fact
 
 > I see code as a way to turn ideas into something people can actually use. 🚀
