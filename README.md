@@ -15,7 +15,8 @@ I build practical, user-focused web applications and enjoy turning ideas into wo
 
 Frontend
 
-Show Image Show Image Show Image Show Image Show Image Show Image
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Show Image Show Image Show Image Show Image Show Image
 
 Backend & Database
 
