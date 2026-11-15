@@ -5,7 +5,7 @@ MERN Stack Developer | Full-Stack Web Development
 I build practical, user-focused web applications and enjoy turning ideas into working products.
 
 <br clear="right"/>
-👩‍💻 About Me
+👩‍💻 About Me 
 🎓 5th-year B.Tech + M.Tech (IT) student at IIPS, DAVV
 💻 Focused on MERN stack and full-stack web development
 🧩 Interested in building responsive interfaces, REST APIs, and database-backed applications
@@ -13,18 +13,9 @@ I build practical, user-focused web applications and enjoy turning ideas into wo
 🤝 Open to learning, collaborating, and contributing to meaningful projects
 🛠️ Tech Stack
 
-Frontend
 
-[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-Show Image Show Image Show Image Show Image Show Image
 
-Backend & Database
 
-Show Image Show Image Show Image Show Image Show Image Show Image
-
-Programming & Tools
-
-Show Image Show Image Show Image Show Image Show Image
 
 🚀 Featured Projects
 🏠 ServiceHub
