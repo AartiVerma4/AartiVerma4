@@ -1,138 +1,150 @@
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Typing cat" /> <h1 align="left">Hi, I'm Aarti Verma 👋</h1>
+<div align="center">
 
-\<!-- PROFILE HEADER -->
+# Hi, I'm Aarti Verma 👋
 
-\<div align="center">
+### MERN Stack Developer | Full-Stack Web Developer
 
-# AARTI VERMA
+Building practical, user-focused web applications with modern technologies.
 
-### Full Stack Developer · MERN Stack
+[![GitHub](https://img.shields.io/badge/GitHub-AartiVerma4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AartiVerma4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarti-verma-627983267/)
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning%2C+Building+and+Growing](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Building+Ideas+Into+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning%2C+Building+and+Growing)." alt="Typing SVG" />
+</div>
 
-\<br/>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230" alt="Animated cat typing on a laptop" />
 
-\<a href="[https://github.com/AartiVerma4](https://github.com/AartiVerma4)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-\</a>
-\<a href="[https://www.linkedin.com/in/aarti-verma-627983267/](https://www.linkedin.com/in/aarti-verma-627983267/)">
-&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-\</a>
+## 👩‍💻 About Me
 
-\</div>
+- 🎓 5th-year B.Tech + M.Tech (IT) student at **IIPS, DAVV**.
+- 💻 Focused on **MERN stack and full-stack web development**.
+- 🧩 Interested in responsive interfaces, REST APIs, and database-backed applications.
+- 🌱 Currently strengthening my React, backend development, Java, and problem-solving skills.
+- 🤝 Open to learning, collaborating, and contributing to meaningful projects.
 
----
-
-## 01. About Me
-
-Hello! I'm **Aarti**, a 5th-year B.Tech + M.Tech (IT) student at IIPS, DAVV, with an interest in building modern and practical web applications.
-
-- 💻 Focused on MERN stack and full-stack development.
-- 🎨 Interested in creating clean, responsive user interfaces.
-- ⚙️ Exploring backend development, REST APIs and database management.
-- 🌱 Currently improving my React, Java and problem-solving skills.
-- 🤝 Always interested in learning and collaborating on meaningful projects.
+<br clear="right"/>
 
 ---
 
-## 02. Technical Skills
+## 🛠️ Technical Skills
 
 **Frontend Development**
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,vite](https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,vite)" alt="Frontend skills"/> \</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend & Database**
+**Backend Development**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase)" alt="Backend and database skills"/>
-\</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Programming & Development Tools**
+**Database**
 
-\<p> \<img src="[https://skillicons.dev/icons?i=java,git,github,vscode,postman,docker](https://skillicons.dev/icons?i=java,git,github,vscode,postman,docker)" alt="Programming and development tools"/> \</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Programming Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 03. Featured Projects
+## 🚀 Featured Projects
 
-### 🏠 ServiceHub
+### 🏠 [ServiceHub](https://github.com/AartiVerma4/ServiceHub)
 
 **Full-Stack Home Services Marketplace**
 
-A platform that allows customers to discover and book home services, with dedicated customer, service-provider and admin workflows.
+A platform where customers can discover and book home services, with dedicated customer, service-provider, and admin workflows.
 
-`React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `Socket.IO` `Docker`
+**Technologies:** React · Vite · Node.js · Express.js · MongoDB · Mongoose
 
-[↗ Explore Repository](https://github.com/AartiVerma4/ServiceHub)
-
----
-
-### 🤝 CollabSpace
-
-**Real-Time Collaborative Workspace**
-
-A collaborative application designed around document collaboration, design boards, team communication and workspace management.
-
-`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Tailwind CSS`
-
-[↗ Explore Repository](https://github.com/AartiVerma4/CollabSpace) · [↗ Live Demo](https://collab-space-kappa.vercel.app/)
+[![View ServiceHub Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AartiVerma4/ServiceHub)
 
 ---
 
-### 📚 IIPS Academics 2.0
+### 🤝 [CollabSpace](https://github.com/AartiVerma4/CollabSpace)
+
+**Collaborative Workspace Application**
+
+A collaborative platform featuring document collaboration, design boards, team communication, and workspace management.
+
+**Technologies:** React · TypeScript · Node.js · Express.js · MongoDB · Socket.IO · Tailwind CSS
+
+[![View CollabSpace Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AartiVerma4/CollabSpace)
+[![Open Live Demo](https://img.shields.io/badge/LIVE_DEMO-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-space-kappa.vercel.app/)
+
+---
+
+### 📚 [IIPS Academics 2.0](https://github.com/AartiVerma4/IIPS_Academics_2.0)
 
 **Academic Resource Sharing Platform**
 
-An academic resource portal for IIPS students and faculty to share and access notes, previous-year questions and syllabus resources.
+An academic resource portal for IIPS students and faculty to share and access notes, previous-year questions, and syllabus resources.
 
-`React` `Vite` `Tailwind CSS` `Supabase`
+**Technologies:** React · Vite · Tailwind CSS · Supabase
 
-[↗ Explore Repository](https://github.com/AartiVerma4/IIPS_Academics_2.0)
+[![View IIPS Academics Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AartiVerma4/IIPS_Academics_2.0)
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 [Personal Portfolio](https://github.com/AartiVerma4/Personal-Portfolio)
 
 **Personal Developer Portfolio**
 
-A responsive portfolio project designed to showcase development skills, projects and professional information.
+A responsive portfolio project designed to showcase development skills, projects, and professional information.
 
-`TypeScript` `React` `Vite`
+**Technologies:** TypeScript · React · Vite
 
-[↗ Explore Repository](https://github.com/AartiVerma4/Personal-Portfolio)
-
----
-
-## 04. GitHub Analytics
-
-\<div align="center">
-
-\<a href="[https://github.com/AartiVerma4](https://github.com/AartiVerma4)">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=AartiVerma4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AartiVerma4\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub statistics"/> \</a>
-
-\<a href="[https://github.com/AartiVerma4](https://github.com/AartiVerma4)">   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most used languages"/> \</a>
-
-\<br/>\<br/>
-
-\<img width="70%" src="[https://streak-stats.demolab.com?user=AartiVerma4&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AartiVerma4\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak"/>
-
-\</div>
+[![View Portfolio Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AartiVerma4/Personal-Portfolio)
 
 ---
 
-## 05. Let's Connect
+## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-I'm always happy to connect with developers, exchange ideas and explore opportunities.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AartiVerma4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aarti's GitHub statistics" />
 
-\<a href="[https://github.com/AartiVerma4](https://github.com/AartiVerma4)"> \<img src="[https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge\&logo=github)" alt="GitHub profile"/> \</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=tokyonight&hide_border=true" alt="Aarti's most used programming languages" />
 
-\<a href="[https://www.linkedin.com/in/aarti-verma-627983267/](https://www.linkedin.com/in/aarti-verma-627983267/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn profile"/> \</a>
+<br/><br/>
 
-\<br/>\<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=AartiVerma4&theme=tokyonight&hide_border=true" alt="Aarti's GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AartiVerma4&theme=tokyo-night&hide_border=true" alt="Aarti's GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AartiVerma4-181717?style=for-the-badge&logo=github)](https://github.com/AartiVerma4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarti_Verma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarti-verma-627983267/)
 
 **Thanks for visiting my profile!**
 
-*Keep building. Keep learning. Keep growing.*
+*Keep learning. Keep building. Keep growing.* ✨
 
-\</div>
+</div>
+
