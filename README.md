@@ -1,5 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Typing cat" /> <h1 align="left">Hi, I'm Aarti Verma 👋</h1>
-<div align="center">
+
 
 # Hi, I'm Aarti Verma 👋
 
@@ -119,9 +118,8 @@ A responsive portfolio project designed to showcase development skills, projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AartiVerma4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aarti's GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AartiVerma4&layout=compact&theme=tokyonight&hide_border=true" alt="Aarti's most used programming languages" />
+
 
 <br/><br/>
 
