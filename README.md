@@ -2,7 +2,7 @@
 
 # Hi, I'm Aarti Verma 👋
 
-### MERN Stack Developer | Full-Stack Web Developer
+### MERN Stack Developer | Full-Stack Web Develope
 
 Building practical, user-focused web applications with modern technologies.
 
